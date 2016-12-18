@@ -19,6 +19,7 @@ inputs to see how it runs.
 
 # Grading Criteria #
 > Your assignment will be judged by the following criteria:
+
 + [70] Code operational success. Your code compiles, executes, and generates the CSV files.
 + [10] Your code is well documented and generally easy to read.
 + [10] Your program intelligently uses classes when appropriate and generally conforms to good
